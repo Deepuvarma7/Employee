@@ -2,6 +2,7 @@ class Employee{
     private String name;
     private  int id;
     private double salary;
+    private String email;
     private String department;
 
     public String getName(){
